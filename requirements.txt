@@ -1,0 +1,4 @@
+soundcard==0.4.3
+numpy==1.26.4
+SpeechRecognition==3.10.4
+keyboard==0.13.5
